@@ -150,25 +150,26 @@
             <div class="row mt-5 pt-5">
                 <div class="col-xl-6 pb-5">
                     <h4 align="center"><b>การสำรวจข้อมูลด้วย KHAOS MICKEY</b></h4>
-                    <video class="img-fluid" style="border-radius:10px" autoplay loop muted controls>
-                        <source src="assets/images/mickey_1.mp4" type="video/mp4">
-                    </video>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/5DvE-GQhwtI?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+                    </div>
+
                 </div>
                 <div class="col-xl-6 pb-5">
                     <h4 align="center"><b>การสำรวจทรัพยากรแร่ธาตุด้วย KHAOS EAGLE</b></h4>
-                    <video class="img-fluid" style="border-radius:10px" autoplay loop muted controls>
-                        <source src="assets/images/eagle_1.mp4" type="video/mp4">
-                    </video>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/bt8Bpt97HiU?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+                    </div>
                 </div>
             </div>
 
             <h1 class="mt-5 pt-5" align="center" style="font-size: 40px;"><b>ฟังก์ชั่นการใช้งานเพิ่มเติม</b></h1>
             <p align="center">(อาจเป็นภารกิจเพิ่มเติม)</p>
 
-            
-                <div class="container-fluid" style="max-width: 800px;">
+
+            <div class="container-fluid" style="max-width: 800px;">
                 <div class="row">
-                <!--div class="col-xl-6 pt-3 " style="border-radius:10px;border:1px solid white">
+                    <!--div class="col-xl-6 pt-3 " style="border-radius:10px;border:1px solid white">
                    
                         <h5 align="center"><b>เชื่อมต่อกับสถานีอวกาศนานาชาติได้</b></h5>
                         <video class="img-fluid" autoplay loop muted controls>
@@ -176,25 +177,25 @@
                         </video>
                    
                 </!--div-->
-                <div class="col-xl-6 mt-4 pt-3 pb-3" style="border-radius:10px;border:1px solid white">
+                    <div class="col-xl-6 mt-4 pt-3 pb-3" style="border-radius:10px;border:1px solid white">
                         <h5 align="center"><b>เชื่อมต่อกับสถานีอวกาศนานาชาติได้</b></h5>
-                        <video class="img-fluid" autoplay loop muted controls>
-                            <source src="assets/images/iss.mp4" type="video/mp4">
-                        </video>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/b9R4jooKTqA?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+                        </div>
                     </div>
-                <div class="col-xl-6 mt-4 pt-3 pb-3" style="border-radius:10px;border:1px solid white">
+                    <div class="col-xl-6 mt-4 pt-3 pb-3" style="border-radius:10px;border:1px solid white">
                         <h5 align="center"><b>สามารถใช้เป็นยานอพยพได้</b></h5>
-                        <video class="img-fluid" autoplay loop muted controls>
-                            <source src="assets/images/escape.mp4" type="video/mp4">
-                        </video>
+                        <div class="embed-responsive embed-responsive-16by9">
+                            <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/Vg-dr-6a4Sk?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+                        </div>
                     </div>
                     <div class="col-xl-12 mt-4 pt-3 pb-3" style="border-radius:5px;border:1px solid white">
                         <h5 align="center"><b>สามารถใช้เป็นเสาสัญญาณ DSN ชั่วคราว</b></h5>
                     </div>
                 </div>
 
-                </div>
-          
+            </div>
+
         </div>
     </div>
 

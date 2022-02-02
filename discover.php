@@ -54,7 +54,7 @@
                             <img src="./assets/images/takeoff.png" class="img-fluid" alt="">
                             <p align="right" class=""><br>การออกจากโลกจำเป็นต้องใช้เชื้อเพลิงปริมาณมหาศาล เนื่องจากต้องปะทะกับแรงต้านอากาศที่จุด <a href="" data-toggle="modal" data-target="#exampleModal">Max -q</a></p><br>
                             <img src="./assets/images/dis1.png" class="img-fluid" alt="">
-                        
+
                         </div>
                     </div>
 
@@ -190,9 +190,9 @@
 
 
             </ul>
-            <video class="img-fluid pt-5 pb-5" controls>
-                <source src="assets/images/discover.mp4" type="video/mp4">
-            </video>
+            <div class="embed-responsive embed-responsive-16by9 pt-5 pb-5 mb-5">
+                <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/WW0c_U22U-s?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+            </div>
 
         </div>
     </div>

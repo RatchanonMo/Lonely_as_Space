@@ -96,10 +96,10 @@
                     <p>คาบการโคจรของดาวดูน่า 1 วันมีค่าเท่ากับ 18.2 ชั่วโมงหรือ 65517.859375 วินาที </p>
 
                     <h1 class="mt-5 pt-5" style="font-size:50px"><b>การโคจรของดวงจันทร์ Ike</b></h1>
-                    <video class="img-fluid card-img-top" autoplay loop muted controls>
-                            <source src="assets/images/ike.mp4" type="video/mp4">
-                        </video>
-                    <p><br>วงโคจรของไอค์ทำให้มันอยู่เหนือช่วงลองจิจูดสั้นของ Dunaian โดยตรง เส้นลองจิจูดเฉลี่ยของ Duna ที่ Ike มักจะอยู่เหนือ โดยตรงคือ 6 องศาตะวันออก แต่ความเยื้องศูนย์กลางของวงโคจรของ Ike ทำให้ลองจิจูดที่แน่นอนจะแกว่งไปมาระหว่าง 2 องศาถึง 10 องศาทางตะวันออก  </p>
+                    <div class="embed-responsive embed-responsive-16by9 pt-5 pb-5 mb-5">
+                        <iframe style="border-radius:10px" class="embed-responsive-item" src="https://www.youtube.com/embed/lHT-JhLFRlo?autoplay=0" allow="autoplay; encrypted-media"></iframe>
+                    </div>
+                    <p><br>วงโคจรของไอค์ทำให้มันอยู่เหนือช่วงลองจิจูดสั้นของ Dunaian โดยตรง เส้นลองจิจูดเฉลี่ยของ Duna ที่ Ike มักจะอยู่เหนือ โดยตรงคือ 6 องศาตะวันออก แต่ความเยื้องศูนย์กลางของวงโคจรของ Ike ทำให้ลองจิจูดที่แน่นอนจะแกว่งไปมาระหว่าง 2 องศาถึง 10 องศาทางตะวันออก </p>
 
                 </div>
                 <div class="col-xl-5">
@@ -111,7 +111,7 @@
                 </div>
             </div>
 
-         
+
 
         </div>
     </div>
